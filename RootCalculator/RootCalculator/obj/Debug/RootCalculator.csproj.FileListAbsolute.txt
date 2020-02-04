@@ -1,0 +1,6 @@
+C:\Users\dash2\source\repos\RootCalculator\RootCalculator\bin\Debug\RootCalculator.exe.config
+C:\Users\dash2\source\repos\RootCalculator\RootCalculator\bin\Debug\RootCalculator.exe
+C:\Users\dash2\source\repos\RootCalculator\RootCalculator\bin\Debug\RootCalculator.pdb
+C:\Users\dash2\source\repos\RootCalculator\RootCalculator\obj\Debug\RootCalculator.csprojAssemblyReference.cache
+C:\Users\dash2\source\repos\RootCalculator\RootCalculator\obj\Debug\RootCalculator.exe
+C:\Users\dash2\source\repos\RootCalculator\RootCalculator\obj\Debug\RootCalculator.pdb
